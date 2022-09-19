@@ -8,7 +8,7 @@ https://kaboomjs.com/
 3) A website that allows you to create patterns for branding, presentations, social media posts, etc.
 https://patternpad.com/
 
-4) Free sebsite templates
+4) Free website templates
 https://bootstrapmade.com/
 
 5) Nature based color palletes for your website, branding, etc.
